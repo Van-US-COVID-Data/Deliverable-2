@@ -1,0 +1,229 @@
+,CountryName,BirthRateValue,BirthRateRank,CountryRegion
+0,Niger,47.08,1,Africa
+1,Angola,41.8,2,Africa
+2,Benin,41.15,3,Africa
+3,Mali,41.07,4,Africa
+4,Uganda,40.94,5,Africa
+5,Chad,40.45,6,Africa
+6,"Congo, Democratic Republic of the",40.08,7,Africa
+7,Somalia,37.98,8,Africa
+8,South Sudan,37.69,9,Africa
+9,Mozambique,37.47,10,Africa
+10,Liberia,36.64,11,Africa
+11,Guinea-Bissau,36.45,12,Africa
+12,Guinea,35.67,13,Africa
+13,Cameroon,35.53,14,Africa
+14,Afghanistan,35.46,15,South Asia
+15,Burundi,35.17,16,Africa
+16,Zambia,34.86,17,Africa
+17,Nigeria,34.19,18,Africa
+18,Burkina Faso,33.57,19,Africa
+19,Sudan,33.47,20,Africa
+20,Tanzania,33.3,21,Africa
+21,Zimbabwe,33.07,22,Africa
+22,Central African Republic,32.79,23,Africa
+23,Sierra Leone,32.2,24,Africa
+24,Togo,31.86,25,Africa
+25,"Congo, Republic of the",31.82,26,Africa
+26,Senegal,31.51,27,Africa
+27,Timor-Leste,30.94,28,East and Southeast Asia
+28,Ethiopia,30.49,29,Africa
+29,Equatorial Guinea,29.95,30,Africa
+30,Papua New Guinea,29.03,31,East and Southeast Asia
+31,"Gambia, The",28.78,32,Africa
+32,Madagascar,28.68,33,Africa
+33,Ghana,28.55,34,Africa
+34,Cote d'Ivoire,28.3,35,Africa
+35,Sao Tome and Principe,28.19,36,Africa
+36,Mauritania,28.06,37,Africa
+37,Malawi,27.94,38,Africa
+38,Gaza Strip,27.67,39,Middle East
+39,Eritrea,27.04,40,Africa
+40,Pakistan,26.48,41,South Asia
+41,Rwanda,26.44,42,Africa
+42,Kenya,26.39,43,Africa
+43,Gabon,26.03,44,Africa
+44,Namibia,25.01,45,Africa
+45,Iraq,24.7,46,Middle East
+46,Yemen,24.64,47,Middle East
+47,West Bank,24.42,48,Middle East
+48,Eswatini,23.35,49,Africa
+49,Lesotho,23.15,50,Africa
+50,Syria,22.72,51,Middle East
+51,Solomon Islands,22.71,52,Australia and Oceania
+52,Tuvalu,22.7,53,Australia and Oceania
+53,Jordan,22.58,54,Middle East
+54,Comoros,22.52,55,Africa
+55,Guatemala,22.34,56,Central America and the Caribbean
+56,Philippines,22.28,57,East and Southeast Asia
+57,Djibouti,22.25,58,Africa
+58,Oman,22.11,59,Middle East
+59,Marshall Islands,22.0,60,Australia and Oceania
+60,Vanuatu,21.57,61,Australia and Oceania
+61,Libya,21.56,62,Africa
+62,Egypt,21.46,63,Africa
+63,Belize,21.28,64,Central America and the Caribbean
+64,Haiti,21.12,65,Central America and the Caribbean
+65,Nauru,21.1,66,Australia and Oceania
+66,Laos,20.9,67,East and Southeast Asia
+67,Tajikistan,20.73,68,Central Asia
+68,Tonga,20.31,69,Australia and Oceania
+69,Botswana,20.28,70,Africa
+70,Kiribati,20.12,71,Australia and Oceania
+71,Kyrgyzstan,19.54,72,Central Asia
+72,Cambodia,19.29,73,East and Southeast Asia
+73,Samoa,19.21,74,Australia and Oceania
+74,Bolivia,18.61,75,South America
+75,Guam,18.56,76,Australia and Oceania
+76,South Africa,18.56,77,Africa
+77,Algeria,18.52,78,Africa
+78,Cabo Verde,18.49,79,Africa
+79,"Micronesia, Federated States of",18.39,80,Australia and Oceania
+80,Dominican Republic,18.03,81,Central America and the Caribbean
+81,Panama,17.99,82,Central America and the Caribbean
+82,Honduras,17.92,83,Central America and the Caribbean
+83,El Salvador,17.87,84,Central America and the Caribbean
+84,Kuwait,17.78,85,Middle East
+85,Bangladesh,17.69,86,South Asia
+86,Nepal,17.53,87,South Asia
+87,Turkmenistan,17.51,88,Central Asia
+88,Morocco,17.42,89,Africa
+89,Israel,17.41,90,Middle East
+90,Venezuela,17.27,91,South America
+91,Peru,17.21,92,South America
+92,India,16.82,93,South Asia
+93,Guyana,16.72,94,South America
+94,American Samoa,16.7,95,Australia and Oceania
+95,Fiji,16.56,96,Australia and Oceania
+96,Nicaragua,16.52,97,Central America and the Caribbean
+97,Ecuador,16.45,98,South America
+98,Burma,16.34,99,East and Southeast Asia
+99,Paraguay,16.32,100,South America
+100,Brunei,16.14,101,East and Southeast Asia
+101,Bhutan,15.94,102,South Asia
+102,Jamaica,15.91,103,Central America and the Caribbean
+103,Mongolia,15.84,104,East and Southeast Asia
+104,Vietnam,15.69,105,East and Southeast Asia
+105,Argentina,15.58,106,South America
+106,Maldives,15.54,107,South Asia
+107,Uzbekistan,15.53,108,Central Asia
+108,Northern Mariana Islands,15.5,109,Australia and Oceania
+109,Kazakhstan,15.38,110,Central Asia
+110,Suriname,15.38,111,South America
+111,Indonesia,15.32,112,East and Southeast Asia
+112,Iran,15.27,113,Middle East
+113,Colombia,15.21,114,South America
+114,Antigua and Barbuda,15.16,115,Central America and the Caribbean
+115,Faroe Islands,14.94,116,Europe
+116,Kosovo,14.85,117,Europe
+117,"Bahamas, The",14.64,118,Central America and the Caribbean
+118,Tunisia,14.62,119,Africa
+119,Malaysia,14.55,120,East and Southeast Asia
+120,Costa Rica,14.28,121,Central America and the Caribbean
+121,Turkey (Turkiye),14.28,122,Middle East
+122,Saudi Arabia,14.22,123,Middle East
+123,"Korea, North",14.21,124,East and Southeast Asia
+124,New Caledonia,14.13,125,Australia and Oceania
+125,Saint Martin,14.09,126,Central America and the Caribbean
+126,Brazil,13.96,127,South America
+127,Grenada,13.94,128,Central America and the Caribbean
+128,Gibraltar,13.93,129,Europe
+129,Dominica,13.91,130,Central America and the Caribbean
+130,Sri Lanka,13.8,131,South Asia
+131,Greenland,13.79,132,North America
+132,Azerbaijan,13.59,133,Middle East
+133,Mexico,13.55,134,North America
+134,Turks and Caicos Islands,13.54,135,Central America and the Caribbean
+135,French Polynesia,13.47,136,Australia and Oceania
+136,Curacao,13.2,137,Central America and the Caribbean
+137,Lebanon,13.1,138,Middle East
+138,Iceland,12.96,139,Europe
+139,New Zealand,12.78,140,Australia and Oceania
+140,Chile,12.75,141,South America
+141,Uruguay,12.71,142,South America
+142,Albania,12.69,143,Europe
+143,Sint Maarten,12.56,144,Central America and the Caribbean
+144,Cook Islands,12.55,145,Australia and Oceania
+145,Jersey,12.41,146,Europe
+146,Bahrain,12.4,147,Middle East
+147,Seychelles,12.37,148,Africa
+148,Ireland,12.32,149,Europe
+149,Australia,12.3,150,Australia and Oceania
+150,United States,12.28,151,North America
+151,Saint Vincent and the Grenadines,12.27,152,Central America and the Caribbean
+152,Wallis and Futuna,12.27,153,Australia and Oceania
+153,Saint Kitts and Nevis,12.24,154,Central America and the Caribbean
+154,Saint Lucia,12.02,155,Central America and the Caribbean
+155,Anguilla,12.01,156,Central America and the Caribbean
+156,Norway,12.0,157,Europe
+157,Aruba,11.82,158,Central America and the Caribbean
+158,Cayman Islands,11.69,159,Central America and the Caribbean
+159,France,11.66,160,Europe
+160,Virgin Islands,11.63,161,Central America and the Caribbean
+161,Luxembourg,11.61,162,Europe
+162,Palau,11.52,163,Australia and Oceania
+163,Denmark,11.22,164,Europe
+164,Montenegro,11.19,165,Europe
+165,Armenia,11.1,166,Middle East
+166,Bermuda,11.03,167,North America
+167,Georgia,11.0,168,Middle East
+168,Netherlands,10.99,169,Europe
+169,Belgium,10.95,170,Europe
+170,British Virgin Islands,10.95,171,Central America and the Caribbean
+171,Falkland Islands (Islas Malvinas),10.9,172,South America
+172,Montserrat,10.9,173,Central America and the Caribbean
+173,Barbados,10.83,174,Central America and the Caribbean
+174,Sweden,10.83,175,Europe
+175,United Arab Emirates,10.81,176,Middle East
+176,Trinidad and Tobago,10.79,177,Central America and the Caribbean
+177,United Kingdom,10.79,178,Europe
+178,Isle of Man,10.58,179,Europe
+179,Cyprus,10.57,180,Europe
+180,North Macedonia,10.45,181,Europe
+181,Finland,10.42,182,Europe
+182,Switzerland,10.36,183,Europe
+183,Liechtenstein,10.32,184,Europe
+184,Moldova,10.19,185,Europe
+185,Canada,10.17,186,North America
+186,Thailand,10.14,187,East and Southeast Asia
+187,Cuba,10.11,188,Central America and the Caribbean
+188,China,9.93,189,East and Southeast Asia
+189,Mauritius,9.86,190,Africa
+190,Guernsey,9.75,191,Europe
+191,Malta,9.73,192,Europe
+192,Austria,9.45,193,Europe
+193,Russia,9.45,194,Central Asia
+194,"Saint Helena, Ascension, and Tristan da Cunha",9.34,195,Africa
+195,Qatar,9.33,196,Middle East
+196,Saint Barthelemy,9.29,197,Central America and the Caribbean
+197,Lithuania,9.26,198,Europe
+198,Macau,9.11,199,East and Southeast Asia
+199,Belarus,9.08,200,Europe
+200,Germany,9.08,201,Europe
+201,Singapore,9.05,202,East and Southeast Asia
+202,Ukraine,9.0,203,Europe
+203,Slovakia,8.94,204,Europe
+204,Serbia,8.92,205,Europe
+205,San Marino,8.85,206,Europe
+206,Romania,8.76,207,Europe
+207,Estonia,8.75,208,Europe
+208,Latvia,8.73,209,Europe
+209,Croatia,8.65,210,Europe
+210,Hungary,8.65,211,Europe
+211,Czechia,8.59,212,Europe
+212,Poland,8.5,213,Europe
+213,Bosnia and Herzegovina,8.41,214,Europe
+214,Slovenia,8.3,215,Europe
+215,Bulgaria,8.05,216,Europe
+216,Hong Kong,8.04,217,East and Southeast Asia
+217,Portugal,8.0,218,Europe
+218,Puerto Rico,7.87,219,Central America and the Caribbean
+219,Greece,7.61,220,Europe
+220,Taiwan,7.39,221,East and Southeast Asia
+221,Spain,7.13,222,Europe
+222,Italy,6.95,223,Europe
+223,Japan,6.95,224,East and Southeast Asia
+224,"Korea, South",6.92,225,East and Southeast Asia
+225,Andorra,6.88,226,Europe
+226,Monaco,6.66,227,Europe
+227,Saint Pierre and Miquelon,6.47,228,North America
