@@ -1,0 +1,213 @@
+,CountryName,EnergyConsumptionValue,EnergyConsumptionRank,CountryRegion
+0,Qatar,"723,582,000.0",1,Middle East
+1,Singapore,"639,951,000.0",2,East and Southeast Asia
+2,Bahrain,"547,976,000.0",3,Middle East
+3,United Arab Emirates,"471,788,000.0",4,Middle East
+4,Brunei,"415,184,000.0",5,East and Southeast Asia
+5,Canada,"403,700,000.0",6,North America
+6,Kuwait,"381,985,000.0",7,Middle East
+7,Norway,"333,833,000.0",8,Europe
+8,Turkmenistan,"330,507,000.0",9,Central Asia
+9,Luxembourg,"310,068,000.0",10,Europe
+10,United States,"304,414,000.0",11,North America
+11,Saudi Arabia,"296,949,000.0",12,Middle East
+12,Oman,"292,022,000.0",13,Middle East
+13,Malta,"267,739,000.0",14,Europe
+14,"Korea, South","242,346,000.0",15,East and Southeast Asia
+15,Australia,"241,004,000.0",16,Australia and Oceania
+16,Belgium,"234,216,000.0",17,Europe
+17,Russia,"227,898,000.0",18,Central Asia
+18,Netherlands,"219,606,000.0",19,Europe
+19,Finland,"216,571,000.0",20,Europe
+20,Sweden,"210,882,000.0",21,Europe
+21,New Zealand,"186,804,000.0",22,Australia and Oceania
+22,Kazakhstan,"180,726,000.0",23,Central Asia
+23,Bermuda,"176,312,000.0",24,North America
+24,Cayman Islands,"175,578,000.0",25,Central America and the Caribbean
+25,Aruba,"174,629,000.0",26,Central America and the Caribbean
+26,Hong Kong,"172,009,000.0",27,East and Southeast Asia
+27,Austria,"171,299,000.0",28,Europe
+28,Seychelles,"163,060,000.0",29,Africa
+29,Czechia,"161,972,000.0",30,Europe
+30,Germany,"161,174,000.0",31,Europe
+31,Taiwan,"160,669,000.0",32,East and Southeast Asia
+32,Guam,"152,767,000.0",33,Australia and Oceania
+33,France,"151,053,000.0",34,Europe
+34,Japan,"147,107,000.0",35,East and Southeast Asia
+35,Iran,"145,540,000.0",36,Middle East
+36,"Bahamas, The","140,505,000.0",37,Central America and the Caribbean
+37,Switzerland,"137,918,000.0",38,Europe
+38,Slovenia,"134,836,000.0",39,Europe
+39,Cyprus,"133,920,000.0",40,Europe
+40,Ireland,"133,674,000.0",41,Europe
+41,Slovakia,"129,665,000.0",42,Europe
+42,Denmark,"124,163,000.0",43,Europe
+43,Malaysia,"123,755,000.0",44,East and Southeast Asia
+44,Spain,"122,673,000.0",45,Europe
+45,United Kingdom,"119,894,000.0",46,Europe
+46,Israel,"113,273,000.0",47,Middle East
+47,Poland,"112,831,000.0",48,Europe
+48,Italy,"112,606,000.0",49,Europe
+49,Hungary,"108,212,000.0",50,Europe
+50,Greece,"108,022,000.0",51,Europe
+51,Antigua and Barbuda,"107,154,000.0",52,Central America and the Caribbean
+52,Libya,"107,118,000.0",53,Africa
+53,China,"105,687,000.0",54,East and Southeast Asia
+54,Bulgaria,"103,924,000.0",55,Europe
+55,Belarus,"102,558,000.0",56,Europe
+56,Portugal,"101,734,000.0",57,Europe
+57,Lithuania,"101,651,000.0",58,Europe
+58,Bhutan,"100,135,000.0",59,South Asia
+59,Panama,"98,946,000.0",60,Central America and the Caribbean
+60,South Africa,"98,474,000.0",61,Africa
+61,Serbia,"98,195,000.0",62,Europe
+62,Puerto Rico,"94,379,000.0",63,Central America and the Caribbean
+63,Croatia,"89,733,000.0",64,Europe
+64,American Samoa,"88,796,000.0",65,Australia and Oceania
+65,Latvia,"86,645,000.0",66,Europe
+66,Venezuela,"85,829,000.0",67,South America
+67,Barbados,"83,723,000.0",68,Central America and the Caribbean
+68,Mongolia,"83,045,000.0",69,East and Southeast Asia
+69,Ukraine,"82,571,000.0",70,Europe
+70,Suriname,"82,356,000.0",71,South America
+71,Chile,"81,953,000.0",72,South America
+72,Macau,"81,407,000.0",73,East and Southeast Asia
+73,British Virgin Islands,"80,136,000.0",74,Central America and the Caribbean
+74,Mauritius,"79,448,000.0",75,Africa
+75,Turkey (Turkiye),"79,126,000.0",76,Middle East
+76,Argentina,"79,083,000.0",77,South America
+77,Montenegro,"77,286,000.0",78,Europe
+78,Thailand,"76,714,000.0",79,East and Southeast Asia
+79,Estonia,"76,329,000.0",80,Europe
+80,Laos,"73,187,000.0",81,East and Southeast Asia
+81,Saint Kitts and Nevis,"71,960,000.0",82,Central America and the Caribbean
+82,Bosnia and Herzegovina,"71,815,000.0",83,Europe
+83,Romania,"71,736,000.0",84,Europe
+84,Uruguay,"66,909,000.0",85,South America
+85,Azerbaijan,"64,416,000.0",86,Middle East
+86,Georgia,"63,286,000.0",87,Middle East
+87,Iraq,"63,174,000.0",88,Middle East
+88,Paraguay,"62,775,000.0",89,South America
+89,Mexico,"61,597,000.0",90,North America
+90,Algeria,"61,433,000.0",91,Africa
+91,Maldives,"59,690,000.0",92,South Asia
+92,Brazil,"59,444,000.0",93,South America
+93,Uzbekistan,"57,709,000.0",94,Central Asia
+94,Equatorial Guinea,"57,596,000.0",95,Africa
+95,North Macedonia,"53,572,000.0",96,Europe
+96,Lebanon,"53,528,000.0",97,Middle East
+97,Armenia,"53,019,000.0",98,Middle East
+98,Kosovo,"51,462,000.0",99,Europe
+99,Saint Lucia,"50,872,000.0",100,Central America and the Caribbean
+100,Jamaica,"49,700,000.0",101,Central America and the Caribbean
+101,Guyana,"48,608,000.0",102,South America
+102,Costa Rica,"44,899,000.0",103,Central America and the Caribbean
+103,Ecuador,"42,564,000.0",104,South America
+104,Moldova,"40,398,000.0",105,Europe
+105,Egypt,"40,063,000.0",106,Africa
+106,Grenada,"39,799,000.0",107,Central America and the Caribbean
+107,Jordan,"39,331,000.0",108,Middle East
+108,Dominican Republic,"39,016,000.0",109,Central America and the Caribbean
+109,Albania,"38,442,000.0",110,Europe
+110,Dominica,"37,513,000.0",111,Central America and the Caribbean
+111,Peru,"36,465,000.0",112,South America
+112,Vietnam,"36,392,000.0",113,East and Southeast Asia
+113,Tunisia,"35,620,000.0",114,Africa
+114,Kyrgyzstan,"35,059,000.0",115,Central Asia
+115,Colombia,"34,703,000.0",116,South America
+116,Botswana,"34,095,000.0",117,Africa
+117,Fiji,"32,901,000.0",118,Australia and Oceania
+118,Cuba,"32,785,000.0",119,Central America and the Caribbean
+119,Belize,"31,552,000.0",120,Central America and the Caribbean
+120,Namibia,"29,811,000.0",121,Africa
+121,Indonesia,"29,680,000.0",122,East and Southeast Asia
+122,Saint Vincent and the Grenadines,"27,821,000.0",123,Central America and the Caribbean
+123,Tajikistan,"27,651,000.0",124,Central Asia
+124,Samoa,"27,111,000.0",125,Australia and Oceania
+125,Bolivia,"27,094,000.0",126,South America
+126,Gabon,"26,786,000.0",127,Africa
+127,Cabo Verde,"26,539,000.0",128,Africa
+128,Morocco,"24,590,000.0",129,Africa
+129,Syria,"24,567,000.0",130,Middle East
+130,El Salvador,"24,124,000.0",131,Central America and the Caribbean
+131,India,"23,231,000.0",132,South Asia
+132,Tonga,"22,841,000.0",133,Australia and Oceania
+133,Honduras,"19,800,000.0",134,Central America and the Caribbean
+134,Guatemala,"19,411,000.0",135,Central America and the Caribbean
+135,Eswatini,"19,371,000.0",136,Africa
+136,Philippines,"19,261,000.0",137,East and Southeast Asia
+137,Sri Lanka,"17,268,000.0",138,South Asia
+138,"Congo, Republic of the","16,156,000.0",139,Africa
+139,Pakistan,"15,859,000.0",140,South Asia
+140,Nicaragua,"14,916,000.0",141,Central America and the Caribbean
+141,Cambodia,"13,629,000.0",142,East and Southeast Asia
+142,Gaza Strip,"13,604,000.0",143,Middle East
+143,West Bank,"13,604,000.0",144,Middle East
+144,Mauritania,"13,558,000.0",145,Africa
+145,"Korea, North","12,610,000.0",146,East and Southeast Asia
+146,Angola,"11,693,000.0",147,Africa
+147,Sao Tome and Principe,"11,636,000.0",148,Africa
+148,Zambia,"11,595,000.0",149,Africa
+149,Zimbabwe,"11,516,000.0",150,Africa
+150,Papua New Guinea,"11,316,000.0",151,East and Southeast Asia
+151,Ghana,"11,239,000.0",152,Africa
+152,Vanuatu,"10,878,000.0",153,Australia and Oceania
+153,Burma,"10,679,000.0",154,East and Southeast Asia
+154,Bangladesh,"9,917,000.0",155,South Asia
+155,Kiribati,"9,335,000.0",156,Australia and Oceania
+156,Senegal,"9,221,000.0",157,Africa
+157,Djibouti,"8,869,000.0",158,Africa
+158,Benin,"8,468,000.0",159,Africa
+159,Nigeria,"8,466,000.0",160,Africa
+160,Cote d'Ivoire,"8,225,000.0",161,Africa
+161,Mozambique,"8,107,000.0",162,Africa
+162,Sudan,"8,047,000.0",163,Africa
+163,Lesotho,"7,823,000.0",164,Africa
+164,Solomon Islands,"6,955,000.0",165,Australia and Oceania
+165,Kenya,"6,310,000.0",166,Africa
+166,Cameroon,"6,187,000.0",167,Africa
+167,Timor-Leste,"5,740,000.0",168,East and Southeast Asia
+168,Yemen,"5,453,000.0",169,Middle East
+169,Comoros,"5,346,000.0",170,Africa
+170,Nepal,"5,219,000.0",171,South Asia
+171,Mali,"4,396,000.0",172,Africa
+172,Guinea,"4,133,000.0",173,Africa
+173,Togo,"4,113,000.0",174,Africa
+174,Haiti,"3,970,000.0",175,Central America and the Caribbean
+175,Liberia,"3,790,000.0",176,Africa
+176,"Gambia, The","3,547,000.0",177,Africa
+177,Tanzania,"3,334,000.0",178,Africa
+178,Burkina Faso,"3,230,000.0",179,Africa
+179,Afghanistan,"3,227,000.0",180,South Asia
+180,Ethiopia,"3,219,000.0",181,Africa
+181,Eritrea,"3,217,000.0",182,Africa
+182,Uganda,"2,943,000.0",183,Africa
+183,Guinea-Bissau,"2,460,000.0",184,Africa
+184,South Sudan,"2,404,000.0",185,Africa
+185,Madagascar,"2,307,000.0",186,Africa
+186,Malawi,"1,809,000.0",187,Africa
+187,Sierra Leone,"1,803,000.0",188,Africa
+188,Rwanda,"1,704,000.0",189,Africa
+189,Chad,"1,575,000.0",190,Africa
+190,Niger,"1,540,000.0",191,Africa
+191,"Congo, Democratic Republic of the","1,371,000.0",192,Africa
+192,Central African Republic,"1,121,000.0",193,Africa
+193,Burundi,"1,087,000.0",194,Africa
+194,Somalia,"802,000.0",195,Africa
+195,Antarctica,0.0,196,Antarctica
+196,Cook Islands,0.0,197,Australia and Oceania
+197,Falkland Islands (Islas Malvinas),0.0,198,South America
+198,Faroe Islands,0.0,199,Europe
+199,French Polynesia,0.0,200,Australia and Oceania
+200,Gibraltar,0.0,201,Europe
+201,"Micronesia, Federated States of",0.0,202,Australia and Oceania
+202,Montserrat,0.0,203,Central America and the Caribbean
+203,Nauru,0.0,204,Australia and Oceania
+204,New Caledonia,0.0,205,Australia and Oceania
+205,Niue,0.0,206,Australia and Oceania
+206,Northern Mariana Islands,0.0,207,Australia and Oceania
+207,"Saint Helena, Ascension, and Tristan da Cunha",0.0,208,Africa
+208,Saint Pierre and Miquelon,0.0,209,North America
+209,Turks and Caicos Islands,0.0,210,Central America and the Caribbean
+210,Tuvalu,0.0,211,Australia and Oceania
+211,Wake Island,0.0,212,Australia and Oceania
