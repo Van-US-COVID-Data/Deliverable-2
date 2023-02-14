@@ -7,7 +7,14 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
 
 ```{r}
-plot(cars)
+Glink='https://github.com/Van-US-COVID-Data/Deliverable-2/raw/main/'
+Flink='CountryRanking.csv'
+CountryRanking=read.csv(paste0(Glink,Flink))
+```
+
+
+```{r}
+str(CountryRanking)
 ```
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
